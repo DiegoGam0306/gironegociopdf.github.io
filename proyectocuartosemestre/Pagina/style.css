@@ -1,0 +1,50 @@
+h1 {
+    color: white;
+    background-color: darkblue;
+    font-family: "Comic Sans MS";
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+}
+
+h2 {
+    color: black;
+    font-family: "Comic Sans MS";
+    font-size: x-large;
+    text-align: left;
+}
+
+h3 {
+    color: white;
+    background-color: rgb(15, 15, 15);
+    margin: 0px;
+    padding: 15px;
+    font-family: "arial";
+    text-align: left;
+}
+
+tipo4 {
+    color: white;
+    background-color: darkred;
+    padding: 10px;
+    margin: 30px;
+    font-family: "arial";
+    font-size: xx-large;
+    vertical-align: top;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+}
+
+button {
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+    width: 600px;
+    height: 75px;
+    font-family: "arial";
+    font-size: x-large;
+    border-color: black;
+    border-style: solid;
+    border-width: 4px;
+}
