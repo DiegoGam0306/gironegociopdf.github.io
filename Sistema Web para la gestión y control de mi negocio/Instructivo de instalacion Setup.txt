@@ -1,0 +1,11 @@
+-Creacion de la base de datos-
+Para el funcionamiento optimo de la aplicacion usted debe seguir estos pasos
+------------------------------------------------------------------------------------
+1- Iniciar los servicios de Apache y MySQL en el panel de control de Xampp.
+2- Abrir el navegador y entrar desde la dirección http://localhost/phpmyadmin y crear la base de datos.
+3- Dentro de phpmyadmin debes crear la base de datos haciendo clic en Nueva(o).
+4- La base de datos debe ser creada bajo el nombre "coffeebike"
+5- Desde el navegador Web llamar al archivo setup.php, desde la dirección en la que este alojado, por ejemplo: http://localhost/carpetaejemplo/sistema/setup.php
+6- Una vez ingresado deberán ver las tablas creadas.
+
+Listo!
